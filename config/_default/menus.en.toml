@@ -18,17 +18,36 @@
 [[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 10
-
-[[main]]
-  name = "Studio"
-  pageRef = "studio"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Writings"
   pageRef = "writings"
-  weight = 10
+  weight = 30
+
+[[main]]
+  name = "Studio"
+  pageRef = "studio"
+  weight = 40
+
+[[main]]
+  name = "Jobs"
+  pageRef = "jobs"
+  weight = 50
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 60
+
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/cryptuon"
+  weight = 70
+  [main.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
 
 [[main]]
   identifier = "search"
