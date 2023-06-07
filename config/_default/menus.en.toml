@@ -50,6 +50,15 @@
     target = "_blank"
 
 [[main]]
+  name = "Twitter"
+  url = "https://twitter.com/cryptuon"
+  weight = 70
+  [main.params]
+    icon = "twitter"
+    showName = false
+    target = "_blank"
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
@@ -60,6 +69,13 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
+   name = "Categories"
+   pageRef = "categories"
+   weight = 10
+
+[[footer]]
    name = "Tags"
    pageRef = "tags"
-   weight = 10
+   weight = 20
+
+

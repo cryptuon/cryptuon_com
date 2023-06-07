@@ -40,3 +40,7 @@ As a Design Intern, you will work closely with our design and development team, 
 - Flexible work hours
 
 Ready to start your journey with Cryptuon? We can't wait to meet you!
+
+{{< button href="mailto:admin@cryptuon.com" >}}
+Email us
+{{< /button >}}

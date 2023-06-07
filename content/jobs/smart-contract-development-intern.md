@@ -39,3 +39,7 @@ As a Smart Contract Development Intern, you will work alongside our skilled bloc
 - Flexible work hours
 
 Are you ready to kickstart your career in smart contract development with Cryptuon? We're excited to meet you!
+
+{{< button href="mailto:admin@cryptuon.com" >}}
+Email us
+{{< /button >}}

@@ -40,3 +40,7 @@ As a Marketing Intern, you will work closely with our marketing and growth teams
 - Flexible work hours
 
 Ready to jump-start your marketing career with Cryptuon? We look forward to hearing from you!
+
+{{< button href="mailto:admin@cryptuon.com" >}}
+Email us
+{{< /button >}}

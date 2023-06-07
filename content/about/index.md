@@ -10,6 +10,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
+showPagination: false
 ---
 
 Welcome to Cryptuon, where we're pioneering the next generation of blockchain technologies and services. Founded by the visionary minds behind the innovative multi-chain API platform, Boom Labs, Cryptuon has taken a bold step into the future by integrating groundbreaking technologies in our projects.

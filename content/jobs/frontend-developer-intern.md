@@ -39,3 +39,7 @@ As a Frontend Developer Intern, you will collaborate closely with our developmen
 - Flexible work hours
 
 Are you ready to embark on your blockchain journey with Cryptuon? We can't wait to meet you!
+
+{{< button href="mailto:admin@cryptuon.com" >}}
+Email us
+{{< /button >}}

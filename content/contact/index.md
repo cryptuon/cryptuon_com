@@ -10,6 +10,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
+showPagination: false
 ---
 
 # Get in Touch with Cryptuon! 📬
@@ -29,3 +30,7 @@ Tell us more about your needs and let's explore how we can work together to tran
 We're always on the lookout for talented individuals who are passionate about blockchain and ready to shape the future of the digital landscape. Drop us a line, and let's talk about how you can grow your career with Cryptuon.
 
 **Whatever your reason for reaching out, we're excited to hear from you. Get in touch with us today and let's embark on the blockchain journey together!**
+
+{{< button href="mailto:admin@cryptuon.com" >}}
+Email us
+{{< /button >}}
