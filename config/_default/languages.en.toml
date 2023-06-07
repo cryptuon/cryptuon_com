@@ -3,7 +3,7 @@ languageName = "English"
 weight = 1
 
 title = "Cryptuon"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "© Cryptuon 2020-23"
 
 [params]
   isoCode = "en"
