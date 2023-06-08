@@ -1,6 +1,9 @@
 ---
 title: "Smart Contract Development Intern at Cryptuon 🚀🔒"
 slug: "smart-contract-development-intern-at-cryptuon"
+description: "Join Cryptuon, a pioneering force in blockchain technologies and Web3 services, as a Smart Contract Development Intern. If you're excited by blockchain technology and eager to apply your Solidity or Vyper programming skills, we invite you to be part of our team. You will have the opportunity to work on real-world smart contract projects, participate in code reviews, and collaborate on blockchain solutions and integration. Students or recent graduates in Computer Science or a related field with an understanding of blockchain technology and excellent communication skills are encouraged to apply."
+tags: ["Cryptuon", "Blockchain", "Web3", "Smart Contract Development Intern", "Job Opportunity", "Blockchain Technologies", "Web3 Services", "Solidity", "Vyper", "Ethereum", "EVM", "Smart Contract Projects", "Internship", "Blockchain Startup", "Career in Blockchain", "Coding Skills", "Smart Contract Code", "Email Us"]
+keywords: ["Cryptuon", "blockchain", "Web3", "smart contract development", "Solidity", "Vyper", "internship", "Ethereum's EVM", "coding", "programming", "computer science", "smart contract projects", "code reviews", "blockchain solutions", "blockchain technology", "job opportunity", "blockchain startup", "career in blockchain", "email us"]
 date: 2023-06-04
 draft: false
 showDate: false

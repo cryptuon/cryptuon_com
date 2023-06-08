@@ -1,6 +1,9 @@
 ---
 title: "Marketing Intern at Cryptuon 🚀💼"
 slug: "marketing-intern-at-cryptuon"
+description: "Cryptuon, a leading name in blockchain technologies and Web3 services, is seeking a dynamic Marketing Intern with a focus on growth and social media. This role offers an opportunity to work on growth-focused marketing strategies, manage social media content, conduct market research, and much more within a vibrant tech startup environment. If you're a student or recent graduate in Marketing, Business or a related field, passionate about marketing and social media, and keen to dive into the world of blockchain, we invite you to connect with us!"
+tags: ["Cryptuon", "Blockchain", "Web3", "Marketing Intern", "Job Opportunity", "Blockchain Technologies", "Web3 Services", "Social Media Management", "Growth Marketing", "SEO", "Marketing Strategies", "Market Research", "Internship", "Blockchain Startup", "Career in Marketing", "Growth Initiatives", "Facebook", "Twitter", "Instagram", "LinkedIn", "Email Us"]
+keywords: ["Cryptuon", "Blockchain", "Web3", "Marketing Intern", "Job Opportunity", "Blockchain Technologies", "Web3 Services", "Social Media Management", "Growth Marketing", "SEO", "Marketing Strategies", "Market Research", "Internship", "Blockchain Startup", "Career in Marketing", "Growth Initiatives", "Facebook", "Twitter", "Instagram", "LinkedIn", "Email Us"]
 date: 2023-06-04
 draft: false
 showDate: false

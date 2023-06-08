@@ -1,6 +1,9 @@
 ---
 title: "Design Intern at Cryptuon 🎨🚀"
 slug: "design-intern-at-cryptuon"
+description: "Cryptuon, a leader in blockchain technologies and Web3 services, is seeking a creative and dedicated Design Intern. This role offers an opportunity to work on innovative blockchain projects, designing user-friendly Web3 interfaces, contributing to our visual branding, and developing marketing graphics. If you're a student or recent graduate passionate about digital design and eager to join a fast-paced blockchain startup, connect with us!"
+tags: ["Cryptuon", "Blockchain", "Web3", "Design Intern", "Blockchain Technologies", "Web3 Services", "Job Opportunity", "Design Job", "Design in Blockchain", "Career in Blockchain", "Web3 Design", "Internship", "Blockchain Startup", "Digital Design", "User Experience", "Visual Branding", "Marketing Graphics", "Web3 Interfaces", "Blockchain Projects", "Email Us"]
+keywords: ["Cryptuon", "Blockchain", "Web3", "Design Intern", "Blockchain Technologies", "Web3 Services", "Job Opportunity", "Design Job", "Design in Blockchain", "Career in Blockchain", "Web3 Design", "Internship", "Blockchain Startup", "Digital Design", "User Experience", "Visual Branding", "Marketing Graphics", "Web3 Interfaces", "Blockchain Projects", "Email Us"]
 date: 2023-06-04
 draft: false
 showDate: false

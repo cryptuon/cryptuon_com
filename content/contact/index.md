@@ -2,10 +2,11 @@
 title: "Contact us"
 date: 2023-06-04
 draft: false
-description: ""
+description: "Interested in Cryptuon and our innovative blockchain technologies and services? Whether you have questions, need expert advice, or curious about our offerings, we're eager to connect. Let's chat about your blockchain needs, career opportunities, or innovative suggestions. Reach out to us today and let's embark on the blockchain journey together!"
+summary: "Cryptuon invites you to connect with us for any queries, advice, or interests in our blockchain technologies and services. Our team is ready to answer your questions, discuss your blockchain needs, and offer expert advice. If you're looking for a career in blockchain, we're eager to explore opportunities with you. Whatever your reason for reaching out, let's start your blockchain journey with Cryptuon."
 slug: "contact"
-tags: []
-keywords: []
+tags: ["Cryptuon", "Blockchain", "Web3", "Blockchain Technologies", "Blockchain Services", "Expert Advice", "Questions", "Suggestions", "Career in Blockchain", "Blockchain Needs", "Innovation", "Digital Landscape", "Contact Us", "Email Us", "Blockchain Journey", "Blockchain Expert", "Blockchain Consultation", "Blockchain Career Opportunities", "Blockchain Innovation", "Blockchain Communication"]
+keywords: ["Cryptuon", "Blockchain", "Web3", "Blockchain Technologies", "Blockchain Services", "Expert Advice", "Questions", "Suggestions", "Career in Blockchain", "Blockchain Needs", "Innovation", "Digital Landscape", "Contact Us", "Email Us", "Blockchain Journey", "Blockchain Expert", "Blockchain Consultation", "Blockchain Career Opportunities", "Blockchain Innovation", "Blockchain Communication"]
 showDate: false
 showAuthor: false
 showReadingTime: false

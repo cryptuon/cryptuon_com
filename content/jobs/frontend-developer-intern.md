@@ -1,6 +1,9 @@
 ---
 title: "Frontend Developer Intern at Cryptuon 💻🚀"
 slug: "frontend-developer-intern-at-cryptuon"
+description: "Cryptuon is on the lookout for a talented and enthusiastic Frontend Developer Intern to join our innovative team. This role offers an opportunity to work on groundbreaking Web3 and blockchain solutions, apply your frontend technologies knowledge, and gain hands-on experience in a dynamic tech-driven environment. If you're a student or recent graduate excited about the future of Web3 and eager to start your journey in the blockchain industry, reach out to us!"
+tags: ["Cryptuon", "Blockchain", "Web3", "Frontend Developer Intern", "Blockchain Technologies", "Web3 Services", "Job Opportunity", "Development Job", "Career in Blockchain", "Web3 Development", "Internship", "Blockchain Startup", "Web3 Interfaces", "Frontend Technologies", "HTML", "CSS", "JavaScript", "React", "Angular", "Vue.js", "Code Reviews", "Blockchain Projects", "Email Us"]
+keywords: ["Cryptuon", "Blockchain", "Web3", "Frontend Developer Intern", "Blockchain Technologies", "Web3 Services", "Job Opportunity", "Development Job", "Career in Blockchain", "Web3 Development", "Internship", "Blockchain Startup", "Web3 Interfaces", "Frontend Technologies", "HTML", "CSS", "JavaScript", "React", "Angular", "Vue.js", "Code Reviews", "Blockchain Projects", "Email Us"]
 date: 2023-06-04
 draft: false
 showDate: false

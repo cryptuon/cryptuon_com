@@ -2,10 +2,11 @@
 title: "Studio"
 date: 2023-06-04
 draft: false
-description: ""
+description: "Cryptuon is a leading blockchain R&D firm and a team of blockchain experts providing a comprehensive suite of services to help your organization navigate and leverage the world of Web3. Our services range from team building, strategic consulting, smart contract development and audit, custom blockchain solutions, to security consulting. We are committed to helping businesses unlock the full potential of blockchain technology, tailored to your specific needs. Join us on this Web3 journey to exceed your expectations."
+summary: "At Cryptuon, we go beyond being just a research and development firm. Our team of blockchain experts provides a wide array of services including team building and development, strategic consulting, smart contract development and auditing, custom blockchain solutions, blockchain integration, and security and privacy consulting. Our mission is to help businesses tap into the full potential of blockchain and Web3 technologies. With us, you are ensured a service that not just meets, but exceeds expectations."
 slug: "studio"
-tags: []
-keywords: []
+tags: ["Cryptuon", "Blockchain Experts", "Web3", "Blockchain R&D", "Team Building", "Strategy Consulting", "Smart Contract Development", "Smart Contract Audit", "Custom Blockchain Solutions", "Blockchain Integration", "Blockchain Security", "Blockchain Privacy", "Blockchain Services", "Blockchain Technology", "Blockchain for Business", "Web3 Services", "Blockchain Consulting", "Web3 Consulting", "Blockchain Strategy", "Web3 Strategy"]
+keywords: ["Cryptuon", "Blockchain Experts", "Web3", "Blockchain R&D", "Team Building", "Strategy Consulting", "Smart Contract Development", "Smart Contract Audit", "Custom Blockchain Solutions", "Blockchain Integration", "Blockchain Security", "Blockchain Privacy", "Blockchain Services", "Blockchain Technology", "Blockchain for Business", "Web3 Services", "Blockchain Consulting", "Web3 Consulting", "Blockchain Strategy", "Web3 Strategy"]
 showDate: false
 showAuthor: false
 showReadingTime: false
